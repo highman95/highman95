@@ -1,5 +1,8 @@
 ### Hi there! I'm Emmanuel. Welcome to my GitHub... 👋
 
+<hr />
+
+<br />
 <!--
 **highman95/highman95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
