@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Emmanuel. Welcome to my GitHub... 👋
 
 <!--
 **highman95/highman95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
